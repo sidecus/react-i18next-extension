@@ -1,6 +1,6 @@
 {
   "name": "react-i18next-extension",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "react-i18next extension to enable easy loc string loading (as object) using decorators",
   "author": "sidecus",
   "license": "MIT",
@@ -26,8 +26,6 @@
     "test:watch": "tsc && react-scripts test --env=jsdom"
   },
   "peerDependencies": {
-    "i18next": "^19.0.0",
-    "react": "^16.0.0",
     "react-i18next": "^11.0.0"
   },
   "devDependencies": {
