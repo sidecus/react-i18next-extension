@@ -2,6 +2,9 @@
 
 > react-i18next extension to enable loc string loading as objects using decorators
 
+[![NPM](https://img.shields.io/npm/v/react-i18next-extension.svg)](https://www.npmjs.com/package/react-i18next-extension)
+![CI](https://github.com/sidecus/react-i18next-extension/workflows/CI/badge.svg)
+
 ## Install
 ```Shell
 npm install react-i18next-extension
