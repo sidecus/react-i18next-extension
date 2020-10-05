@@ -32,7 +32,8 @@ class MyComponentStrings {
 }
 const MyComponent = () => {
     const strings = useLocStrings(MyComponentStrings);
-    // or below if you are using interpolation - second param is the same as that of t function
+    // or below if you are using interpolation - second param is
+    // the same as that of t function
     // const strings = useLocStrings(
     //    MyComponentStrings,
     //    { someinterpolationvalue: 'bla' }
